@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="._1_introduction.HelloWorldActivity">
+        <activity android:name="koans.practice.pawan.kotlinkoanssolutions._1_introduction._2_Named_Arguments._2_NamedArgumentsActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

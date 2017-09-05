@@ -1,4 +1,4 @@
-package koans.practice.pawan.kotlinkoanssolutions._1_introduction
+package koans.practice.pawan.kotlinkoanssolutions._0_Hello_World
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
